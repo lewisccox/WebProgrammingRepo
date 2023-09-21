@@ -5,9 +5,9 @@ This repository is used to store various test code and possibly larger projects 
 
 The contents of which are explained in their respective sections below 
 
-##Javascript 
+## Javascript 
 
-##HTML-CSS
+## HTML-CSS
 ### CSS Zen Garden 
 As a refresher on HTML and CSS, I downloaded an example webpage and made some modifications to the HTML and CSS files 
 
