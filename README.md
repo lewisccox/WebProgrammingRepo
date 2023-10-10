@@ -1,8 +1,9 @@
 # My Web Programming Repository 
-This repository is used to store various test code and possibly larger projects from the web programming course. So far the project is divided into three sections 
+This repository is used to store various test code and possibly larger projects from the web programming course. So far the project is divided into four  sections 
 * [Javascript](#javascript)
 * [jQuery](#jQuery)
 * [HTML-CSS](#html-css)
+* [RSS}(#rss)
 
 The contents of which are explained in their respective sections below 
 
@@ -16,6 +17,9 @@ To familiarise myself with the jQuery library I have attempted some simple proje
 ## HTML-CSS
 ### CSS Zen Garden 
 As a refresher on HTML and CSS, I downloaded an example webpage and made some modifications to the HTML and CSS files 
+
+## rss 
+Included a script which fetches and parses the RSS feed for the New York Times website 
 
 
 
