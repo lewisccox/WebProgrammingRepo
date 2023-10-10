@@ -3,7 +3,8 @@ This repository is used to store various test code and possibly larger projects 
 * [Javascript](#javascript)
 * [jQuery](#jQuery)
 * [HTML-CSS](#html-css)
-* [RSS}(#rss)
+* [RSS](#rss)
+* [AJAX](#ajax)
 
 The contents of which are explained in their respective sections below 
 
@@ -21,5 +22,7 @@ As a refresher on HTML and CSS, I downloaded an example webpage and made some mo
 ## rss 
 Included a script which fetches and parses the RSS feed for the New York Times website 
 
+## ajax 
+I have implemented a script which retreives the contents of a webpage using ajax
 
 
